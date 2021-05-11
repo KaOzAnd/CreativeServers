@@ -36,7 +36,7 @@
     .hero {
         width: 100%;
         min-width: 100vh;
-        background: linear-gradient(180deg, #30353b 0%, #1a1b1f 100%);
+        background: linear-gradient(180deg, #4c4c4c 0%, #000000 100%);
     }
     
     .nav__hero {
@@ -84,8 +84,8 @@
     
     .mockup {
         object-fit: cover;
-        width: 48%;
-        max-width: 90vh;
+        width: 90%;
+        max-width: 100vh;
     }
     
     .hero__textos {
@@ -195,6 +195,10 @@
     .card__copy {
         color: var(--gray2);
         margin-bottom: 16px;
+    }
+    
+    .card__copy--modifier {
+        line-height: 25%;
     }
     
     .card__button {
