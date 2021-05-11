@@ -327,7 +327,12 @@
     
     .google__logo {
         margin-bottom: 20px;
-        width: 30%;
+        width: 20%;
+    }
+    
+    .google__logo1 {
+        margin-bottom: 20px;
+        width: 28%;
     }
     
     .testimony__history {
